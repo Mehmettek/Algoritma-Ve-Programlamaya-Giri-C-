@@ -42,7 +42,7 @@ namespace GitHub_Comit_Example
                 Console.Write(i + "    ");
             Console.Write("\n");
 
-            //a1 i büyütelim zorlayalım onu büyürmeye for döngüsü ile
+            //a1 i büyütelim
 
             for (int i = 1; i < 20; i++)
                 a1.Add((char)('a' + i));
@@ -59,7 +59,7 @@ namespace GitHub_Comit_Example
                 Console.Write(i + " ");
             Console.Write("\n");
 
-            //dizi indekleme kullanrak içeriğini değiştirdik..
+            //dizi indexleme kullanarak içeriğini değiştirdik..
 
             a1[0] = 'X';
             a1[1] = 'Y';
