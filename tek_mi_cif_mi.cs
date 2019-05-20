@@ -4,8 +4,7 @@
         {
             int sayi;
             sayi=10;
-            bool status=false;
-            if(sayi % 2 ==0)
+             if(sayi % 2 ==0)
                Console.WriteLine("Cift Sayı");
             else
                 Console.WriteLine("Tek Sayı");
