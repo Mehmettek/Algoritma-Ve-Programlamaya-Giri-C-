@@ -1,5 +1,5 @@
 # Algoritma-Ve-Programlamaya-Giriş-
-Algoritma Ve Programlamaya Giriş niteliğinde olan bazı örnekleri c# dilinde kodlayıp sizler ile paylaşmak istedim.
+Algoritma Ve Programlamaya Giriş niteliğinde olan bazı örnekleri C#  dilinde kodlayıp sizler ile paylaşmak istedim.
 
 'Hello World' den başlayıp konsol üzerinde yapabiliceğiniz basit ve orta zorlukta problemleri sizlerle paylaşacağım.
 
