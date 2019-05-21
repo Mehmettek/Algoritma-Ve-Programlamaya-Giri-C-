@@ -1,4 +1,4 @@
-girilen sayilarin yerlerini değiştirme
+//Girilen sayilarin yerlerini değiştirme
  int tmp=0,a,b;
 
             Console.Write("harf giriniz");
