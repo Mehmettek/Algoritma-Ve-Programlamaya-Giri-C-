@@ -1,8 +1,8 @@
  class Program
     {
        public static Random rastgele = new Random();
-      static int zar1;
-      static int zar2;
+    static int zar1;
+   static int zar2;
          static int[] tpl=new int[36000];
           
         static void zarat()
