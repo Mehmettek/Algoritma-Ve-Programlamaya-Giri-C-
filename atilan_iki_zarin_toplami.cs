@@ -1,8 +1,8 @@
  class Program
     {
-       public static Random rastgele = new Random();
-    static int zar1;
-   static int zar2;
+     public static Random rastgele = new Random();
+     static int zar1;
+    static int zar2;
          static int[] tpl=new int[36000];
           
         static void zarat()
@@ -27,7 +27,7 @@
         }
         static void Main(string[] args)
         {
-            zarat();
+         zarat();
             Console.Write("\n\n Dizinin Son Elemanı  " +tpl[35999]);
             Console.Read();
         }
